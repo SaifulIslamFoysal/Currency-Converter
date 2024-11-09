@@ -1,2 +1,2 @@
-#Currency Converter
+
 The Currency Converter is a web-based application that allows users to easily convert one currency to another using real-time exchange rates. The app supports a wide range of global currencies, including popular ones like USD, EUR, GBP, and INR. Users can select the currency they want to convert from and to, input the amount, and view the conversion result instantly. The app fetches exchange rates using the ExchangeRate API, ensuring accurate and up-to-date information. With a clean, responsive design, this project provides a simple and efficient solution for anyone needing quick currency conversions.
